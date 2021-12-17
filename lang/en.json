@@ -1,0 +1,19 @@
+{
+  "minigames": "My MiniGames",
+  "en": "English",
+  "es": "Spanish",
+  "anterior": "Previous",
+  "add": "Add",
+  "download": "Download",
+  "reset": "Reset",
+  "delete": "Delete",
+  "edit": "Edit",
+  "upload": "Upload",
+  "view": "View",
+  "home": "Home",
+  "quizgame": "Quiz Game",
+  "tictactoegame": "Tictactoe Game",
+  "siguiente": "Next",
+  "submit": "Submit",
+  "buscarQuiz" : "Search for a Quiz"
+}
